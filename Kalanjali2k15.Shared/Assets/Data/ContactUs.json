@@ -1,0 +1,37 @@
+[
+  {
+    "MenuType": "DeepLink",
+    "Title": "Location",
+    "Icon": "/Assets/DataImages/Item-dd7eb8ba-7f16-46b0-9a38-ff3ebe9433c5.png",
+    "Target": "bingmaps:?collection=point.13.151117324829102_77.60810852050781_Sir%2520MVIT&lvl=18",
+    "_id": "ae5bec37-58e3-445e-9fa6-661ab8fb6378"
+  },
+  {
+    "MenuType": "DeepLink",
+    "Title": "Co ordinator",
+    "Icon": "/Assets/DataImages/Item-9ce253a3-5d2c-4151-b88c-6188566638a0.png",
+    "Target": "tel:9845672343",
+    "_id": "3af85033-d0a7-446e-a53e-b9c8dfa03d4c"
+  },
+  {
+    "MenuType": "DeepLink",
+    "Title": "sirmvitbgl@gmail.com",
+    "Icon": "/Assets/DataImages/Item-18a79169-63d2-4418-931d-dc6f9a6be1a8.png",
+    "Target": "mailto:sirmvitbgl@gmail.com",
+    "_id": "7465299c-0255-4dcb-a162-ab63a44753a8"
+  },
+  {
+    "MenuType": "DeepLink",
+    "Title": "Kalanjali Website",
+    "Icon": "/Assets/DataImages/Item-492dd772-70d2-480e-b4d5-66c89315293c.png",
+    "Target": "http://www.sirmvitkalanjali.in/",
+    "_id": "9498a3cb-3341-4170-895f-79c30f2dedf1"
+  },
+  {
+    "MenuType": "DeepLink",
+    "Title": "Register",
+    "Icon": "/Assets/DataImages/url.png",
+    "Target": "http://www.sirmvitkalanjali.in/gp.php",
+    "_id": "22bfcb9e-7fc0-4e8a-ac2f-906e344073e8"
+  }
+]
